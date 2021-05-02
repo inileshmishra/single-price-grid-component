@@ -1,5 +1,7 @@
 # Frontend Mentor - Single price grid component
 
+# Live url: https://clever-visvesvaraya-663fc0.netlify.app
+
 ![Design preview for the Single price grid component coding challenge](desktop-preview.jpg)
 
 ## Welcome! 👋
